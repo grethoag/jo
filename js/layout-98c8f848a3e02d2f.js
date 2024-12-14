@@ -143,7 +143,7 @@
                   className: o().footerSocialsContainer,
                   children: [
                     (0, i.jsx)(v.default, {
-                      href: "https://x.com/MyJoi_Ai",
+                      href: "https://x.com/joivirtuals",
                       target: "_blank",
                       children: (0, i.jsx)(f.default, {
                         src: c.src,
@@ -278,7 +278,7 @@
             e < 2 && (i(e), r(0.1 * e));
           }, [a]);
         let p = [
-          { title: "Twitter", link: "https://x.com/MyJoi_Ai", newTab: !0 },
+          { title: "Twitter", link: "https://x.com/joivirtuals", newTab: !0 },
         ];
         return (0, o.jsxs)("div", {
           className: l().navigationBarOverallContainer,
